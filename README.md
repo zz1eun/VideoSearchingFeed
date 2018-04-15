@@ -7,4 +7,4 @@
 ### 동영상 썸네일 이미지 얼굴 인식
 
 - 동영상의 썸네일 이미지를 기준으로 하여 얼굴 인식함
-- 썸네일 이미지에서 2명 이상의 얼굴이 검출 되었을 때, UICollectionview의 BorderColor를 설정하여 구
+- 썸네일 이미지에서 2명 이상의 얼굴이 검출 되었을 때, UICollectionview의 BorderColor를 설정하여 구분함
